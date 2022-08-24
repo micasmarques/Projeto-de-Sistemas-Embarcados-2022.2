@@ -43,6 +43,8 @@
 
   ##### Tivemos problemas em relação a calibração da célula de carga, pois após testes utilizando o multímetro, concluímos que o cristal da nossa célula de carga quebrou, e não tivemos tempo hábil para realizar sua calibração, uma vez que foi necessário encomendar de João Pessoa uma nova célula. Também tivemos dificuldade em programar o projeto para enviar mensagens para o Telegram, mostrando a situação atual de todo o protótipo.
 
+  ##### Tela
+  ![alt text](https://github.com/micasmarques/projeto-2022-fotos/blob/main/fotos/tela.png)
   ![alt text](https://github.com/micasmarques/projeto-2022-fotos/blob/main/fotos/projeto-final.jpg)
  
 
